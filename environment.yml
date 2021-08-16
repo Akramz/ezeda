@@ -1,0 +1,15 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - conda
+  - python=3.8
+  - python.app
+  - conda-env
+  - conda-build
+  - conda-verify
+  - anaconda-navigator
+  - navigator-updater
+  - matplotlib
+  - mamba
+prefix: /Users/akramzaytar/opt/anaconda3
